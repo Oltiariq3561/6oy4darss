@@ -186,7 +186,7 @@ function App() {
                 </select>
               </div>
               <div className="">
-                <p>
+                <p className='mt-5'>
                   Shahar <span className="text-red-400">*</span>
                 </p>
                 <select
