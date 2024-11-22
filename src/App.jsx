@@ -173,7 +173,7 @@ function App() {
 
             <div className="flex w-[702px] justify-between">
               <div className="">
-                <p>
+                <p className='mt-5'>
                   Davlat <span className="text-red-400">*</span>
                 </p>
                 <select
